@@ -1,0 +1,125 @@
+[
+  {
+    "episode": "2025-01-25",
+    "level": "90%",
+    "question": "Sara has almost finished this crossword and just has 7 down left to fill in. The clue is: Investigate. Which of these is the correct answer?",
+    "type": "multiple-choice",
+    "questionImage": "episode-2025-01-25/q1-crossword.png",
+    "options": ["EXPLORE", "EXAMINE", "EXPOSE"],
+    "answer": "EXPLORE",
+    "explanationText": "Only EXPLORE fits in the crossword grid at 7 down.",
+    "explanationImage": null
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "80%",
+    "question": "Spot the difference between these two images.",
+    "type": "text",
+    "questionImage": "episode-2025-01-25/q2-spot-difference.png",
+    "answer": "The image on the right has an extra dog",
+    "explanationText": "Look carefully at the bottom right corner of the images.",
+    "explanationImage": "episode-2025-01-25/q2-explained.png"
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "70%",
+    "question": "Which of these is incorrect?",
+    "type": "image-choice",
+    "questionImage": "episode-2025-01-25/q3-word-images.png",
+    "imageOptions": [
+      { "src": "episode-2025-01-25/q3-opt-a.png", "id": "A" },
+      { "src": "episode-2025-01-25/q3-opt-b.png", "id": "B" },
+      { "src": "episode-2025-01-25/q3-opt-c.png", "id": "C" },
+      { "src": "episode-2025-01-25/q3-opt-d.png", "id": "D" }
+    ],
+    "answer": "C",
+    "explanationText": "Change the images to words to make new compound words. DUCKLONGING is not a word, while the others form: BOOKING (book + king), STARFISH (star + fish), and BOOKEND (book + end).",
+    "explanationImage": null
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "60%",
+    "question": "Although some have been rotated, which two of these flags are exactly the same?",
+    "type": "text",
+    "questionImage": "episode-2025-01-25/q4-flags.png",
+    "answer": "A and C",
+    "explanationText": "Flags A and C are identical when you account for rotation.",
+    "explanationImage": "episode-2025-01-25/q4-explained.png"
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "50%",
+    "question": "Eight people are in a circle, either standing up (U) or sitting down (D) as shown below. Everyone who is standing up sits down and vice versa. How many people are now standing?",
+    "type": "text",
+    "questionImage": "episode-2025-01-25/q5-circle.png",
+    "answer": "5",
+    "explanationText": "There were 5 people sitting down initially (D), and they all stand up after the switch.",
+    "explanationImage": null
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "40%",
+    "question": "What connects these four things?",
+    "type": "text",
+    "questionText": "ATLAS, ACHILLES, TRAPEZE, HAMSTRING",
+    "answer": "They are all body parts",
+    "explanationText": "Atlas (neck vertebra), Achilles (tendon), Trapeze (trapezius muscle), and Hamstring are all anatomical terms.",
+    "explanationImage": null
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "30%",
+    "question": "In six ball overs, a bowler can bowl a maximum of 36 balls without any extras. The bowler took these wickets: 15th ball, 21st ball, 27th ball, 29th ball. On which over was the 4th wicket taken?",
+    "type": "text",
+    "answer": "5th over",
+    "explanationText": "The 29th ball falls in the 5th over (balls 25-30).",
+    "explanationImage": null
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "20%",
+    "question": "Using the same rule for all three, fill in the blank.",
+    "type": "text",
+    "questionImage": "episode-2025-01-25/q8-pattern.png",
+    "answer": "HORSE",
+    "explanationText": "The pattern involves the last letter of each word. The sequence creates FISH → HARE → EAGLE → HORSE.",
+    "explanationImage": null
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "15%",
+    "question": "If it takes Isla five minutes to saw through a log, how long will it take her to saw a log into three equal pieces?",
+    "type": "text",
+    "answer": "10 minutes",
+    "explanationText": "To cut a log into 3 pieces requires 2 cuts. Each cut takes 5 minutes, so 2 × 5 = 10 minutes.",
+    "explanationImage": null
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "10%",
+    "question": "A fruit bowl contains four apples, three oranges and eight bananas. Dave takes two pieces of fruit at random. What is the probability that he takes two different types of fruit?",
+    "type": "text",
+    "answer": "64/105",
+    "explanationText": "Total fruits = 15. Probability of same type = P(2 apples) + P(2 oranges) + P(2 bananas) = 6/105 + 3/105 + 28/105 = 37/105. Probability of different types = 1 - 37/105 = 68/105. Simplified: 64/105.",
+    "explanationImage": null
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "5%",
+    "question": "Below is a word search containing ONLY the 12 months of the year. All the words have been found apart from one. Which month is missing?",
+    "type": "text",
+    "questionImage": "episode-2025-01-25/q11-wordsearch.png",
+    "answer": "MARCH",
+    "explanationText": "After finding all other months in the word search grid, MARCH is the only one not present.",
+    "explanationImage": "episode-2025-01-25/q11-explained.png"
+  },
+  {
+    "episode": "2025-01-25",
+    "level": "1%",
+    "question": "In a tennis tournament, 111 players entered. It's a straight knock out tournament. How many matches must be played to determine a winner?",
+    "type": "text",
+    "answer": "110",
+    "explanationText": "In a knockout tournament, each match eliminates exactly one player. To go from 111 players to 1 winner, 110 players must be eliminated, requiring 110 matches.",
+    "explanationImage": null
+  }
+]

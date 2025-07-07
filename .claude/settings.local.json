@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.yahoo.com)",
+      "Bash(npx shadcn@latest init:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm install:*)",
+      "Bash(npm:*)",
+      "Bash(mv:*)",
+      "Bash(cp:*)"
+    ],
+    "deny": []
+  }
+}
